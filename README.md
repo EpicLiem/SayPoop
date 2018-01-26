@@ -11,3 +11,7 @@ Best way to prank your roommate
 2. Only works on Mac.
 3. To edit command and frequency, edit the python code in install_cron.py.
 4. Please use responsibly. Authors are not responsible for any uses of this script.
+
+### Uninstall
+1. Open Terminal
+2. Run `crontab -r`

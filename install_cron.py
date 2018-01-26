@@ -4,8 +4,8 @@ user_cron = CronTab(user=True)
 sys_cron = CronTab()
 
 # edit this line if you want a different command
-job = user_cron.new(command = 'open https://www.youtube.com/watch?v=taWzoLpdxaI')
-job.hour.every(6)
+job = user_cron.new(command = 'say poop')
+job.minute.every(30)
 
 # sample pranks
 
