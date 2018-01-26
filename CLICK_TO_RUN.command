@@ -2,5 +2,7 @@
 
 cd -- "$(dirname "$BASH_SOURCE")"
 python install_cron.py
-diskutil unmount /Volumes/Augie
+cd ../
+cwd=$(pwd)
+diskutil unmount $cwd
 killall Terminal
