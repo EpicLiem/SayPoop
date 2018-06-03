@@ -1,7 +1,7 @@
-0 */4 * * 0 https://raw.githubusercontent.com/AugieDoebling/SayPoop/master/brendan/brendan_sunday.sh | bash
-0 */4 * * 1 https://raw.githubusercontent.com/AugieDoebling/SayPoop/master/brendan/brendan_monday.sh | bash
-0 */4 * * 2 https://raw.githubusercontent.com/AugieDoebling/SayPoop/master/brendan/brendan_tuesday.sh | bash
-0 */4 * * 3 https://raw.githubusercontent.com/AugieDoebling/SayPoop/master/brendan/brendan_wednesday.sh | bash
-0 */4 * * 4 https://raw.githubusercontent.com/AugieDoebling/SayPoop/master/brendan/brendan_thursday.sh | bash
-0 */4 * * 5 https://raw.githubusercontent.com/AugieDoebling/SayPoop/master/brendan/brendan_friday.sh | bash
-0 */4 * * 6 https://raw.githubusercontent.com/AugieDoebling/SayPoop/master/brendan/brendan_saturday.sh | bash
+0 */4 * * 0 wget -O - https://raw.githubusercontent.com/AugieDoebling/SayPoop/master/brendan/brendan_sunday.sh | bash
+0 */4 * * 1 wget -O - https://raw.githubusercontent.com/AugieDoebling/SayPoop/master/brendan/brendan_monday.sh | bash
+0 */4 * * 2 wget -O - https://raw.githubusercontent.com/AugieDoebling/SayPoop/master/brendan/brendan_tuesday.sh | bash
+0 */4 * * 3 wget -O - https://raw.githubusercontent.com/AugieDoebling/SayPoop/master/brendan/brendan_wednesday.sh | bash
+0 */4 * * 4 wget -O - https://raw.githubusercontent.com/AugieDoebling/SayPoop/master/brendan/brendan_thursday.sh | bash
+0 */4 * * 5 wget -O - https://raw.githubusercontent.com/AugieDoebling/SayPoop/master/brendan/brendan_friday.sh | bash
+0 */4 * * 6 wget -O - https://raw.githubusercontent.com/AugieDoebling/SayPoop/master/brendan/brendan_saturday.sh | bash
