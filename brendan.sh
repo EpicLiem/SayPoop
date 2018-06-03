@@ -1,1 +1,1 @@
-open https://slo.craigslist.org/
+open https://giphy.com/embed/11PEptfDmR4vjW
