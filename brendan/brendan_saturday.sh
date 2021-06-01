@@ -1,1 +1,0 @@
-open "http://dailywildlifephoto.nathab.com/"

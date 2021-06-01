@@ -1,1 +1,0 @@
-open "http://kice.me/randomebay/"

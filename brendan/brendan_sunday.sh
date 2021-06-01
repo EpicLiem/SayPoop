@@ -1,1 +1,0 @@
-open https://giphy.com/embed/11PEptfDmR4vjW
